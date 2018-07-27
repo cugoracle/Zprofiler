@@ -1,0 +1,4 @@
+Agent-Class: com.huawei.asmTransform.TestAgent1
+Can-Redine-Classes: true
+Can-Retransform-Classes: true
+Class-Path: com\huawei\asmTransform\asm-all-5.0.4.jar
